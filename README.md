@@ -1,3 +1,3 @@
 # hooks
-Description of react hooks with examples
-to display in the console, type the command "npm start"
+Description of react hooks with examples.
+type the command in the console "npm start" to see 
